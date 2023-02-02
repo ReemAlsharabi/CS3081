@@ -1,0 +1,9 @@
+Lab uniformed search code
+1- Find a link for uninformed search algorithms code to use
+sample code ( https://github.com/chitholian/AI-Search-Algorithms)
+    -> Submit the link and the code file
+2- Apply the Romania problem (graph in ppt ) and find a solution to reach goal
+     -> 
+3- apply BFS, DFS, and  Iterative deepening
+4- add a way to visualize the iterations and the nodes that are checked.
+   -> submit screenshots of the run
